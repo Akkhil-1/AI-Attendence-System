@@ -1,2 +1,11 @@
+# Utilities
+numpy
+pandas
+
+# Face recognization
+scikit-learn
+dlib
+
 flask
 gunicorn
+
