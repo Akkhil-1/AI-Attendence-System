@@ -4,8 +4,21 @@ pandas
 
 # Face recognization
 scikit-learn
-dlib
+dlib-bin
+# shape or face detection model from github [ distance eyes , nose length ] to uniquely define face
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
 
 flask
 gunicorn
+
+# database
+supabase
+bcrypt
+
+# QR code library
+segno
+pillow
+
+streamlit
 
